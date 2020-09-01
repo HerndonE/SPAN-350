@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{717:function(c,n,t){"use strict";t.r(n);var o=t(10),s=t.n(o),i=t(14);n.default=function(c){return c.forEach((function(c){s.a.subscribe(i.CLICK,(function(n,t){t.target.closest('[data-component-type="account-icon"]')===c?c.classList.toggle("is-accounts-icon-active"):c.classList.remove("is-accounts-icon-active")}))}))}}}]);
